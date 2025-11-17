@@ -19,9 +19,3 @@ This project demonstrates a fully automated and serverless website deployment ar
 
 ## Tech Stack
 AWS | CI/CD | CloudFront | Serverless | Secure Deployment
-
-## 👨‍💻 Author
-
-📧 Email: th.jairaj@gmail.com</br>
-🌐 GitHub: https://github.com/Jairajthakur</br>
-💼 LinkedIn: https://linkedin.com/in/jairajsinghchauhan</br>
